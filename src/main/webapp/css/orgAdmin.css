@@ -1,0 +1,47 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color: #ABABAB;
+}
+
+#page
+{
+	
+}
+
+.title
+{
+	text-align: right;
+}
+
+#head
+{
+	padding-bottom: 15px;
+	border-bottom: medium;
+	border-bottom-style: solid;
+	border-bottom-color: black;	
+}
+
+#content
+{
+	padding-top: 5px;
+}
+
+#left
+{
+	float: left;
+}
+
+#right
+{
+	margin-left: 50%;
+	border-left: thin solid;
+	padding-left: 10px;
+	height: 800px;
+}
+
+#hideable
+{
+	display: none;
+}
