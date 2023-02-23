@@ -45,3 +45,4 @@ ksamsok.sln
 /src/main/webapp/WEB-INF/context.xml
 /src/main/webapp/WEB-INF/users.xml
 /.idea/
+/client/node_modules/
